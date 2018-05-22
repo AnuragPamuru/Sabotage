@@ -1,0 +1,23 @@
+22
+Albania 804000
+Austria-Hungary 66226000
+Belgium 6136000
+Bulgaria 3154000
+Denmark 2182000
+France 39270000
+German_Empire 67000000
+Greece 2800000
+Italy 34641000
+Luxembourg 252000
+Montenegro 320000
+Netherlands 5616000
+Norway 2325000
+Ottoman_Empire 14000000
+Portugal 5758000
+Romania 6630000
+Russia 151010000
+Serbia 2650000
+Spain 20750000
+Sweden 5378000
+Switzerland 3525000
+Great Britain 39700000
