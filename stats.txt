@@ -1,23 +1,23 @@
 22
-Albania 804000
-Austria-Hungary 66226000
-Belgium 6136000
-Bulgaria 3154000
-Denmark 2182000
-France 39270000
-German_Empire 67000000
-Greece 2800000
-Italy 34641000
-Luxembourg 252000
-Montenegro 320000
-Netherlands 5616000
-Norway 2325000
-Ottoman_Empire 14000000
-Portugal 5758000
-Romania 6630000
-Russia 151010000
-Serbia 2650000
-Spain 20750000
-Sweden 5378000
-Switzerland 3525000
+Albania 804000 e41e20
+Austria-Hungary 66226000 436f4d
+Belgium 6136000 fae042
+Bulgaria 3154000 004529
+Denmark 2182000 c60c30
+France 39270000 002395
+German_Empire 67000000 000000
+Greece 2800000 0d5eaf
+Italy 34641000 009246
+Luxembourg 252000 00a1de
+Montenegro 320000 999999
+Netherlands 5616000 ae1c28
+Norway 2325000 ef2b2d
+Ottoman_Empire 14000000 e30a17
+Portugal 5758000 006600
+Romania 6630000 810f7c
+Russia 151010000 0039a6
+Serbia 2650000 0c4076
+Spain 20750000 ffc400
+Sweden 5378000 fecd01
+Switzerland 3525000 8c510a
 Great Britain 39700000
